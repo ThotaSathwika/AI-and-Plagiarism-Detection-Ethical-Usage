@@ -1,0 +1,9 @@
+This system processes input in the form of:
+- .txt: Plain text files
+- .pdf: Portable Document Format
+- .docx: Microsoft Word documents
+
+Test Case Example:
+"This research discusses the ethical implications of AI-generated content in academia..."
+
+The content is passed through a BERT model for semantic classification.

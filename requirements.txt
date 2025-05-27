@@ -1,0 +1,7 @@
+transformers
+gradio
+scikit-learn
+torch
+matplotlib
+python-docx
+PyPDF2
